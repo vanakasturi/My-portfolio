@@ -1,0 +1,84 @@
+.bgimage {
+    height:100vh;
+    background: url('bgimg.jpg');
+    background-size:cover;
+    position:relative;
+}
+.kat{
+  margin-left: 2%;
+ margin-top: fixed;
+}
+.kat h1{
+  font-size: 50px;
+  color: white;
+  margin-bottom: 20px;
+}
+span{
+  color: orange;
+}
+.kat p1{
+  font-size: 20px;
+  color: green;
+  line-height: 24px;
+}
+#pick{
+  width:300px;
+  height:300px;
+  position: relative;
+  right: -5%;
+  border: 4px solid goldenrod;
+  border-radius: 150px;
+}
+.aboutimage {
+    width: 350px;
+   border: 4px solid blue;
+  border-radius: 15px;
+}
+p{
+  font-style: Arial;
+  font-size: 20px;
+}
+li{
+  font-family:arabic-indic;
+ font-size:20px;
+  margin:11px;
+}
+.line{
+  background-color:black;
+  height:6px;
+  width:315px;
+  margin: none;
+}
+h3{
+  font-family: aliceblue;
+  background-color:pink;
+  width:auto;
+}
+.learn{ width: 550px;
+  height: 350px;
+  border-style: groove;
+  border-width: 6px;
+  margin: 12px;
+  border-radius: 30px;
+  border-color: goldenrod;}
+#soft{
+  height:500px;
+  width: 1000px;
+  border: 4px solid yellow;
+}
+.social-icons {
+    font-size: 40px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover,.fa-gmail:hover{
+    color: green;
+}
+.fab {
+    color:yellow;
+}
+#INSPIRATION{
+    border: 2px solid red;
+}
+#HOBBIES{
+    border: 3px solid blue;
+}
